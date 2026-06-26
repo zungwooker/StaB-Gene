@@ -1,4 +1,4 @@
-## BiasEdit-Gene: Detecting Bias in Text-to-Image Generative Models
+## StaB-Gene: Detecting Bias in Text-to-Image Generative Models
 
 Based on [BiasEdit: A Training-Free Bias-Detect-and-Edit Framework for Learning Fair Visual Classifiers](https://dl.acm.org/doi/10.1145/3774904.3792411)
 
