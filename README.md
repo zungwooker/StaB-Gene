@@ -70,14 +70,3 @@ The bias detection methodology is based on
 [LfF](https://github.com/alinlab/LfF),
 [DisEnt](https://github.com/kakaoenterprise/Learning-Debiased-Disentangled), and
 [BiasEnsemble](https://github.com/kakaoenterprise/BiasEnsemble).
-
-### Citation
-
-```bibtex
-@inproceedings{seo2026biasedit,
-  title     = {BiasEdit: A Training-Free Bias-Detect-and-Edit Framework for Learning Fair Visual Classifiers},
-  author    = {Seo, Jungwook and Park, Yoonsik and Lee, Changmin and Baik, Sungyong},
-  booktitle = {Web Conference 2026},
-  year      = {2026}
-}
-```
