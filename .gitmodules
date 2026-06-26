@@ -1,0 +1,3 @@
+[submodule "StaB/Tag2Text"]
+	path = StaB/Tag2Text
+	url = https://github.com/xinyu1205/recognize-anything.git

@@ -1,0 +1,4 @@
+dataset: age
+classes:
+  young: "a portrait photo of a young person aged 10 to 29, natural lighting, photorealistic"
+  old: "a portrait photo of a middle-aged person aged 40 to 59, natural lighting, photorealistic"
